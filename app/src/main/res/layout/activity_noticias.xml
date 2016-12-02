@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_noticias"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.froylan.jaguares.NoticiasActivity">
+    <TextView
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:id="@+id/textcarera"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Spinner
+        android:textStyle="bold"
+        android:id="@+id/spiner_Noticias"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></Spinner>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".9"
+        android:background="@drawable/huellas">
+
+        <ListView
+            android:textStyle="bold"
+            android:id="@+id/list_noticias"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight=".9"></ListView>
+
+    </LinearLayout>
+    <Button
+        android:id="@+id/cerrar"
+        android:background="@color/botones"
+        android:textStyle="bold"
+        android:textColor="@color/letra"
+        android:text="Cerrar Sesion"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".1"/>
+
+</LinearLayout>

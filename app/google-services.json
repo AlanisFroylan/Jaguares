@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "735939200906",
+    "firebase_url": "https://jaguares-f50cd.firebaseio.com",
+    "project_id": "jaguares-f50cd",
+    "storage_bucket": "jaguares-f50cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735939200906:android:c1b7cae98b92056f",
+        "android_client_info": {
+          "package_name": "com.example.froylan.jaguares"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735939200906-v0olvrpqt6pkdiq7sbomh3830tohc1eh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.froylan.jaguares",
+            "certificate_hash": "3166DF5428BFEB93FC5F8B50050219E2D80FE4F4"
+          }
+        },
+        {
+          "client_id": "735939200906-jepuqf1ilm9c0kokkbfe2nv5vb7hr22c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA8n1rJBYvYkF4aIshNNPRooPhpkHfP6Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735939200906-jepuqf1ilm9c0kokkbfe2nv5vb7hr22c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

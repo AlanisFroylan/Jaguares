@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Jaguares</string>
+    <string name="facebook_app_id">376114479403437</string>
+    <string name="carera"></string>
+    <string name="tutorias">Tutorias</string>
+    <string name="servicio_social">Servicio Social</string>
+    <string name="idiomas">Idiomas</string>
+    <string name="centro_de_negocios">Centro de Negocios</string>
+    <string name="servicios_escolares">Servicios escolares</string>
+    <string name="residencias">Residencias</string>
+    <string name="cultura_y_deportes">Cultura y Deportes</string>
+    <string name="becas">Becas</string>
+</resources>
